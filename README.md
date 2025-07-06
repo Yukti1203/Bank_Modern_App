@@ -1,3 +1,65 @@
+# Bank Modern App
+
+A sleek, modern bank landing page built using **React.js**, **Vite**, and **Tailwind CSS**.  
+Inspired by clean UI principles and responsive design — perfect for fintech or SaaS frontends.
+
+---
+
+## Live Demo
+
+🌐 [Click here to view the live site](https://Yukti1203.github.io/Bank_Modern_App/)
+
+---
+
+## Tech Stack
+
+- ⚛️ React.js (with functional components + hooks)
+- ⚡ Vite (lightning-fast bundler)
+- 🎨 Tailwind CSS (utility-first styling)
+- 🌐 GitHub Pages (for deployment)
+
+---
+
+## Features
+
+- Fully responsive layout (mobile-first)
+- Modern hero section with CTA
+- Reusable component structure
+- Clean animations and transitions
+- Fast page loads via Vite
+
+---
+
+## Folder Structure
+
+Bank_Modern_App/
+├── src/
+│ ├── components/
+│ ├── assets/
+│ ├── App.jsx
+│ └── main.jsx
+├── public/
+├── vite.config.js
+└── tailwind.config.js
+
+---
+
+## What I Learned
+
+- How to use Tailwind CSS effectively with React
+- Structuring reusable, maintainable components
+- Deploying Vite apps on GitHub Pages
+
+---
+
+## Future Improvements
+
+- Add routing with React Router
+- Implement dark mode toggle
+- Add basic authentication for demo
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
